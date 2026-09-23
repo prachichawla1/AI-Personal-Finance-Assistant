@@ -1,0 +1,12 @@
+﻿date,description,type,amount,category
+2026-08-01,Opening Balance,credit,35000,Salary/Income
+2026-08-03,Supermart Grocery,debit,3200,Groceries
+2026-08-05,House Rent Auto-Debit,debit,16000,Housing
+2026-08-08,Swiggy Delivery,debit,850,Food & Dining
+2026-08-10,Electricity Bill,debit,2800,Utilities
+2026-08-14,Zara Luxury Clothes,debit,12500,Shopping
+2026-08-18,Amazon Gadget,debit,4200,Shopping
+2026-08-22,Cafe Coffee Day,debit,650,Food & Dining
+2026-08-28,Monthly Salary Credited,credit,55000,Salary/Income
+2026-09-02,Local Grocery Mart,debit,2900,Groceries
+2026-09-05,House Rent Auto-Debit,debit,16000,Housing
